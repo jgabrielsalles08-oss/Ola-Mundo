@@ -1,6 +1,5 @@
 # Olá, Mundo!!
-primeiror epositorio.
-
+primeiro epositorio.
 
 
 Aula Gustavo Guanabara.
